@@ -1,0 +1,13 @@
+Buenas tardes estimad@s, como quedamos está mañana, esta es la practica que se debe entregar hasta el día Domingo hasta horas 23:00.
+
+Si tienen subido el código a por ejemplo GitHub o GitLab, mi correo es el siguiente para poder adicionarme: rembertus@gmail.com
+
+Práctica
+1.-
+- Modificar el tamaño de la Cancha a 7x9
+- Modificar el tamaño de la Cancha a 9x7
+- Revisar y corregir si existen errores
+
+2.- Ajustar la imagen del Jugador al mostrar el movimiento hacia la izquierda
+
+3.- Ajustar los limites del movimiento del jugador en relación a los bloques que no puede avanzar.
